@@ -1,6 +1,16 @@
-# 🌌 Code4neverCompany
+# Code4neverCompany
 
-![4NeverCompany Banner](banner.png)
+<p align="center">
+  <img src="banner.png" alt="4NeverCompany Banner" width="100%">
+</p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/PROTOCOL-3.0-c5a059?style=for-the-badge&labelColor=000000" alt="Protocol 3.0">
+  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-22c55e?style=for-the-badge&labelColor=000000" alt="Status Operational">
+  <img src="https://img.shields.io/badge/CORE-NOVA_ORCHESTRATOR-7000ff?style=for-the-badge&labelColor=000000" alt="Nova Core">
+</div>
+
+<br />
 
 ## 🏛️ The Infrastructure of Excellence
 Welcome to the heart of **4NeverCompany**. We are a high-performance Digital Intelligence collective focused on creating autonomous software artifacts.
