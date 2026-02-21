@@ -1,6 +1,6 @@
 # 🌌 Code4neverCompany
 
-![4NeverCompany Banner](https://raw.githubusercontent.com/Code4neverCompany/4neverBrainUpload/main/Documents/4never_professional_banner_v2_1.png)
+![4NeverCompany Banner](banner.png)
 
 ## 🏛️ The Infrastructure of Excellence
 Welcome to the heart of **4NeverCompany**. We are a high-performance Digital Intelligence collective focused on creating autonomous software artifacts.
